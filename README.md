@@ -10,64 +10,80 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ```
 ├── Arrays/
-│   ├── Easy/
-│   │   ├── 1-two-sum.ipynb
-│   │   ├── 26-remove-duplicates-from-sorted-array.ipynb
-│   │   ├── 27-remove-element.ipynb
-│   │   ├── 283-move-zeroes.ipynb
-│   │   └── 977-squares-of-a-sorted-array.ipynb
-│   ├── Medium/
-│   │   └── 167-two-sum-ii-input-array-is-sorted.ipynb
+│   ├── Easy/       (12 problems)
+│   ├── Medium/     (9 problems)
 │   └── Hard/
 │
 ├── Strings/
-│   ├── Easy/
-│   │   ├── 125-valid-palindrome.ipynb
-│   │   └── 345-reverse-vowels-of-a-string.ipynb
+│   ├── Easy/       (3 problems)
 │   ├── Medium/
 │   └── Hard/
 │
 └── SQL/
-    └── Easy/
-        ├── 182-duplicate-emails.ipynb
-        ├── 183-customers-who-never-order.ipynb
-        ├── 181-employees-earning-more-than-managers.ipynb
-        ├── 197-rising-temperature.ipynb
-        ├── 586-customer-placing-largest-orders.ipynb
-        ├── 595-big-countries.ipynb
-        ├── 596-classes-with-at-least-5-students.ipynb
-        └── 1050-actors-and-directors.ipynb
+    └── Easy/       (8 problems)
 ```
 
 ---
 
 ## 📊 Problems Solved
 
-### DSA Problems (Python)
+### Arrays - Easy (12 problems)
 
-| # | Problem | Difficulty | Category |
-|---|---------|------------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays, HashMap |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Arrays, Two Pointer |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Arrays, Two Pointer |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Strings, Two Pointer |
-| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Arrays, Two Pointer |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Arrays, Two Pointer |
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Strings, Two Pointer |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Arrays, Two Pointer |
+| Problem | Notebook |
+|---------|----------|
+| Two Sum | `1-two-sum.ipynb` |
+| Remove Duplicates from Sorted Array | `26-remove-duplicates-from-sorted-array.ipynb` |
+| Remove Element | `27-remove-element.ipynb` |
+| Move Zeroes | `283-move-zeroes.ipynb` |
+| Squares of a Sorted Array | `977-squares-of-a-sorted-array.ipynb` |
+| Binary Search | `BinarySearch.ipynb` |
+| Check if Array is Sorted | `Checkifarrsorted.ipynb` |
+| Largest Element | `LargestElement.ipynb` |
+| Left Rotate Array | `LeftRotateArray.ipynb` |
+| Remove Duplicates (Sorted) | `RemoveDuplicates(Sorted).ipynb` |
+| Search Insert Position | `SearchInsertPos.ipynb` |
+| Second Largest Element | `SecondLargest.ipynb` |
 
-### SQL Problems
+---
 
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy |
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy |
-| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy |
-| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy |
-| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy |
-| 596 | [Classes With At Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | Easy |
-| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+### Arrays - Medium (9 problems)
+
+| Problem | Notebook |
+|---------|----------|
+| Two Sum II - Input Array Is Sorted | `167-two-sum-ii-input-array-is-sorted.ipynb` |
+| Best Time to Buy and Sell Stock | `BuySellStock.ipynb` |
+| Container With Most Water | `ContainerwithMostWater.ipynb` |
+| Majority Element | `MajorityElement.ipynb` |
+| Merge Intervals | `MergeIntervals.ipynb` |
+| Prefix Sum | `PreFixSum.ipynb` |
+| Rotate Subarray by K | `RotateSubArraybyK.ipynb` |
+| Subarray with Sum K | `SubarraywithSumK.ipynb` |
+| Two Sum (Medium approach) | `TwoSum.ipynb` |
+
+---
+
+### Strings - Easy (3 problems)
+
+| Problem | Notebook |
+|---------|----------|
+| Valid Palindrome | `125-valid-palindrome.ipynb` |
+| Reverse Vowels of a String | `345-reverse-vowels-of-a-string.ipynb` |
+| Valid Anagram | `ValidAnagram.ipynb` |
+
+---
+
+### SQL - Easy (8 problems)
+
+| Problem | Notebook |
+|---------|----------|
+| Big Countries | `595-big-countries.ipynb` |
+| Customers Who Never Order | `183-customers-who-never-order.ipynb` |
+| Employees Earning More Than Their Managers | `181-employees-earning-more-than-managers.ipynb` |
+| Rising Temperature | `197-rising-temperature.ipynb` |
+| Duplicate Emails | `182-duplicate-emails.ipynb` |
+| Classes With At Least 5 Students | `596-classes-with-at-least-5-students.ipynb` |
+| Customer Placing the Largest Number of Orders | `586-customer-placing-largest-orders.ipynb` |
+| Actors and Directors Who Cooperated At Least Three Times | `1050-actors-and-directors.ipynb` |
 
 ---
 
