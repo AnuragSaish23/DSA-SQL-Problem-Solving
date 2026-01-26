@@ -10,24 +10,24 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ```
 ├── Arrays/
-│   ├── Easy/       (13 problems)
+│   ├── Easy/       (15 problems)
 │   ├── Medium/     (9 problems)
 │   └── Hard/
 │
 ├── Strings/
-│   ├── Easy/       (4 problems)
+│   ├── Easy/       (5 problems)
 │   ├── Medium/
 │   └── Hard/
 │
 └── SQL/
-    └── Easy/       (10 problems)
+    └── Easy/       (13 problems)
 ```
 
 ---
 
 ## 📊 Problems Solved
 
-### Arrays - Easy (13 problems)
+### Arrays - Easy (15 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -44,6 +44,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Search Insert Position | `SearchInsertPos.ipynb` |
 | Second Largest Element | `SecondLargest.ipynb` |
 | Merge Sorted Array | `88-merge-sorted-array.ipynb` |
+| Intersection of Two Arrays II | `350-intersection-of-two-arrays-ii.ipynb` |
+| Assign Cookies | `455-assign-cookies.ipynb` |
 
 ---
 
@@ -63,7 +65,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Strings - Easy (4 problems)
+### Strings - Easy (5 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -71,10 +73,11 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Reverse Vowels of a String | `345-reverse-vowels-of-a-string.ipynb` |
 | Valid Anagram | `ValidAnagram.ipynb` |
 | Is Subsequence | `392-is-subsequence.ipynb` |
+| Valid Palindrome II | `680-valid-palindrome-ii.ipynb` |
 
 ---
 
-### SQL - Easy (10 problems)
+### SQL - Easy (13 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -88,6 +91,9 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Actors and Directors Who Cooperated At Least Three Times | `1050-actors-and-directors.ipynb` |
 | Daily Leads and Partners | `1693-daily-leads-and-partners.ipynb` |
 | User Activity for the Past 30 Days I | `1141-user-activity-for-the-past-30-days-i.ipynb` |
+| Game Play Analysis I | `511-game-play-analysis-i.ipynb` |
+| Sales Person | `607-sales-person.ipynb` |
+| Find Customer Referee | `584-find-customer-referee.ipynb` |
 
 ---
 
