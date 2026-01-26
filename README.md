@@ -10,24 +10,24 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ```
 ├── Arrays/
-│   ├── Easy/       (12 problems)
+│   ├── Easy/       (13 problems)
 │   ├── Medium/     (9 problems)
 │   └── Hard/
 │
 ├── Strings/
-│   ├── Easy/       (3 problems)
+│   ├── Easy/       (4 problems)
 │   ├── Medium/
 │   └── Hard/
 │
 └── SQL/
-    └── Easy/       (8 problems)
+    └── Easy/       (10 problems)
 ```
 
 ---
 
 ## 📊 Problems Solved
 
-### Arrays - Easy (12 problems)
+### Arrays - Easy (13 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -43,6 +43,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Remove Duplicates (Sorted) | `RemoveDuplicates(Sorted).ipynb` |
 | Search Insert Position | `SearchInsertPos.ipynb` |
 | Second Largest Element | `SecondLargest.ipynb` |
+| Merge Sorted Array | `88-merge-sorted-array.ipynb` |
 
 ---
 
@@ -62,17 +63,18 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Strings - Easy (3 problems)
+### Strings - Easy (4 problems)
 
 | Problem | Notebook |
 |---------|----------|
 | Valid Palindrome | `125-valid-palindrome.ipynb` |
 | Reverse Vowels of a String | `345-reverse-vowels-of-a-string.ipynb` |
 | Valid Anagram | `ValidAnagram.ipynb` |
+| Is Subsequence | `392-is-subsequence.ipynb` |
 
 ---
 
-### SQL - Easy (8 problems)
+### SQL - Easy (10 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -84,6 +86,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Classes With At Least 5 Students | `596-classes-with-at-least-5-students.ipynb` |
 | Customer Placing the Largest Number of Orders | `586-customer-placing-largest-orders.ipynb` |
 | Actors and Directors Who Cooperated At Least Three Times | `1050-actors-and-directors.ipynb` |
+| Daily Leads and Partners | `1693-daily-leads-and-partners.ipynb` |
+| User Activity for the Past 30 Days I | `1141-user-activity-for-the-past-30-days-i.ipynb` |
 
 ---
 

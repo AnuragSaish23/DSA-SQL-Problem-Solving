@@ -62,7 +62,10 @@ User solves 4 problems daily:
    git push origin main
    ```
 
-9. Update README.md with new problems if needed
+9. **Update README.md** with new problems:
+   - Update folder problem counts in the Repository Structure section
+   - Add new entries to the Problems Solved tables (Arrays-Easy, Strings-Easy, SQL-Easy, etc.)
+   - Format: `| Problem Name | \`{number}-{problem-slug}.ipynb\` |`
 
 ## Notebook Template (DSA)
 ```json
