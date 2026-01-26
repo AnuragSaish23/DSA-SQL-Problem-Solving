@@ -68,13 +68,32 @@ User solves 4 problems daily:
    - Format: `| Problem Name | \`{number}-{problem-slug}.ipynb\` |`
 
 ## Notebook Template (DSA)
+
+**IMPORTANT:** For DSA problems, include ALL applicable solution approaches:
+1. **Brute Force** - The most intuitive but inefficient solution
+2. **Better** - An improved approach (if applicable)
+3. **Optimal** - The most efficient solution
+
+Skip an approach only if it doesn't exist (e.g., some problems have same brute and optimal).
+
 ```json
 {
   "cells": [
     {"cell_type": "markdown", "source": ["# Problem Title (LeetCode #XXX)\n\n## Problem Description\n..."]},
-    {"cell_type": "markdown", "source": ["## Approach\n..."]},
-    {"cell_type": "code", "source": ["# Python Solution\n..."]},
-    {"cell_type": "markdown", "source": ["## Complexity Analysis\n- Time: O(...)\n- Space: O(...)"]}
+    
+    {"cell_type": "markdown", "source": ["## Approach 1: Brute Force\n\n**Intuition:** ...\n\n**Algorithm:** ..."]},
+    {"cell_type": "code", "source": ["# Brute Force Solution\nclass Solution:\n    def solve(self, ...):\n        ..."]},
+    {"cell_type": "markdown", "source": ["**Complexity Analysis (Brute Force):**\n- Time: O(...)\n- Space: O(...)"]},
+    
+    {"cell_type": "markdown", "source": ["---\n## Approach 2: Better\n\n**Intuition:** ...\n\n**Algorithm:** ..."]},
+    {"cell_type": "code", "source": ["# Better Solution\nclass Solution:\n    def solve(self, ...):\n        ..."]},
+    {"cell_type": "markdown", "source": ["**Complexity Analysis (Better):**\n- Time: O(...)\n- Space: O(...)"]},
+    
+    {"cell_type": "markdown", "source": ["---\n## Approach 3: Optimal\n\n**Intuition:** ...\n\n**Algorithm:** ..."]},
+    {"cell_type": "code", "source": ["# Optimal Solution\nclass Solution:\n    def solve(self, ...):\n        ..."]},
+    {"cell_type": "markdown", "source": ["**Complexity Analysis (Optimal):**\n- Time: O(...)\n- Space: O(...)"]},
+    
+    {"cell_type": "markdown", "source": ["## Summary\n| Approach | Time | Space |\n|----------|------|-------|\n| Brute Force | O(...) | O(...) |\n| Better | O(...) | O(...) |\n| Optimal | O(...) | O(...) |"]}
   ]
 }
 ```
