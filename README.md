@@ -11,7 +11,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 ```
 ├── Arrays/
 │   ├── Easy/       (15 problems)
-│   ├── Medium/     (9 problems)
+│   ├── Medium/     (10 problems)
 │   └── Hard/
 │
 ├── Strings/
@@ -20,7 +20,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 │   └── Hard/
 │
 └── SQL/
-    └── Easy/       (13 problems)
+    └── Easy/       (15 problems)
 ```
 
 ---
@@ -49,7 +49,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Arrays - Medium (9 problems)
+### Arrays - Medium (10 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -62,6 +62,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Rotate Subarray by K | `RotateSubArraybyK.ipynb` |
 | Subarray with Sum K | `SubarraywithSumK.ipynb` |
 | Two Sum (Medium approach) | `TwoSum.ipynb` |
+| 3Sum | `15-3sum.ipynb` |
 
 ---
 
@@ -77,7 +78,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### SQL - Easy (13 problems)
+### SQL - Easy (15 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -94,6 +95,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Game Play Analysis I | `511-game-play-analysis-i.ipynb` |
 | Sales Person | `607-sales-person.ipynb` |
 | Find Customer Referee | `584-find-customer-referee.ipynb` |
+| Not Boring Movies | `620-not-boring-movies.ipynb` |
+| Invalid Tweets | `1683-invalid-tweets.ipynb` |
 
 ---
 
