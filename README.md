@@ -11,8 +11,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 ```
 ├── Arrays/
 │   ├── Easy/       (15 problems)
-│   ├── Medium/     (12 problems)
-│   └── Hard/
+│   ├── Medium/     (13 problems)
+│   └── Hard/       (1 problem)
 │
 ├── Strings/
 │   ├── Easy/       (5 problems)
@@ -20,7 +20,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 │   └── Hard/
 │
 └── SQL/
-    └── Easy/       (17 problems)
+    ├── Easy/       (18 problems)
+    └── Medium/     (1 problem)
 ```
 
 ---
@@ -49,7 +50,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Arrays - Medium (12 problems)
+### Arrays - Medium (13 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -65,6 +66,15 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | 3Sum | `15-3sum.ipynb` |
 | Sort Colors | `75-sort-colors.ipynb` |
 | 4Sum | `18-4sum.ipynb` |
+| 3Sum Closest | `16-3sum-closest.ipynb` |
+
+---
+
+### Arrays - Hard (1 problem)
+
+| Problem | Notebook |
+|---------|----------|
+| Trapping Rain Water | `42-trapping-rain-water.ipynb` |
 
 ---
 
@@ -80,7 +90,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### SQL - Easy (17 problems)
+### SQL - Easy (18 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -101,6 +111,15 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Invalid Tweets | `1683-invalid-tweets.ipynb` |
 | Combine Two Tables | `175-combine-two-tables.ipynb` |
 | Employee Bonus | `577-employee-bonus.ipynb` |
+| Delete Duplicate Emails | `196-delete-duplicate-emails.ipynb` |
+
+---
+
+### SQL - Medium (1 problem)
+
+| Problem | Notebook |
+|---------|----------|
+| Managers with at Least 5 Direct Reports | `570-managers-with-at-least-5-direct-reports.ipynb` |
 
 ---
 
