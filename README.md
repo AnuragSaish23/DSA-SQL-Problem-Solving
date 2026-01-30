@@ -11,16 +11,16 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 ```
 ├── Arrays/
 │   ├── Easy/       (15 problems)
-│   ├── Medium/     (13 problems)
+│   ├── Medium/     (14 problems)
 │   └── Hard/       (1 problem)
 │
 ├── Strings/
 │   ├── Easy/       (5 problems)
-│   ├── Medium/
+│   ├── Medium/     (1 problem)
 │   └── Hard/
 │
 └── SQL/
-    ├── Easy/       (18 problems)
+    ├── Easy/       (20 problems)
     └── Medium/     (1 problem)
 ```
 
@@ -50,7 +50,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Arrays - Medium (13 problems)
+### Arrays - Medium (14 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -67,6 +67,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Sort Colors | `75-sort-colors.ipynb` |
 | 4Sum | `18-4sum.ipynb` |
 | 3Sum Closest | `16-3sum-closest.ipynb` |
+| Remove Duplicates from Sorted Array II | `80-remove-duplicates-from-sorted-array-ii.ipynb` |
 
 ---
 
@@ -90,7 +91,15 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### SQL - Easy (18 problems)
+### Strings - Medium (1 problem)
+
+| Problem | Notebook |
+|---------|----------|
+| Partition Labels | `763-partition-labels.ipynb` |
+
+---
+
+### SQL - Easy (20 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -112,6 +121,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Combine Two Tables | `175-combine-two-tables.ipynb` |
 | Employee Bonus | `577-employee-bonus.ipynb` |
 | Delete Duplicate Emails | `196-delete-duplicate-emails.ipynb` |
+| Product Sales Analysis I | `1068-product-sales-analysis-i.ipynb` |
+| Product Sales Analysis II | `1069-product-sales-analysis-ii.ipynb` |
 
 ---
 
