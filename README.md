@@ -11,7 +11,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 ```
 ├── Arrays/
 │   ├── Easy/       (15 problems)
-│   ├── Medium/     (14 problems)
+│   ├── Medium/     (16 problems)
 │   └── Hard/       (1 problem)
 │
 ├── Strings/
@@ -20,7 +20,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 │   └── Hard/
 │
 └── SQL/
-    ├── Easy/       (20 problems)
+    ├── Easy/       (22 problems)
     └── Medium/     (1 problem)
 ```
 
@@ -50,7 +50,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Arrays - Medium (14 problems)
+### Arrays - Medium (16 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -68,6 +68,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | 4Sum | `18-4sum.ipynb` |
 | 3Sum Closest | `16-3sum-closest.ipynb` |
 | Remove Duplicates from Sorted Array II | `80-remove-duplicates-from-sorted-array-ii.ipynb` |
+| Boats to Save People | `881-boats-to-save-people.ipynb` |
+| Bag of Tokens | `948-bag-of-tokens.ipynb` |
 
 ---
 
@@ -99,7 +101,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### SQL - Easy (20 problems)
+### SQL - Easy (22 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -123,6 +125,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Delete Duplicate Emails | `196-delete-duplicate-emails.ipynb` |
 | Product Sales Analysis I | `1068-product-sales-analysis-i.ipynb` |
 | Product Sales Analysis II | `1069-product-sales-analysis-ii.ipynb` |
+| Sales Analysis III | `1084-sales-analysis-iii.ipynb` |
+| Students and Examinations | `1280-students-and-examinations.ipynb` |
 
 ---
 
