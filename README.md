@@ -10,7 +10,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ```
 ├── Arrays/
-│   ├── Easy/       (15 problems)
+│   ├── Easy/       (17 problems)
 │   ├── Medium/     (16 problems)
 │   └── Hard/       (1 problem)
 │
@@ -20,7 +20,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 │   └── Hard/
 │
 └── SQL/
-    ├── Easy/       (22 problems)
+    ├── Easy/       (24 problems)
     └── Medium/     (1 problem)
 ```
 
@@ -28,7 +28,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ## 📊 Problems Solved
 
-### Arrays - Easy (15 problems)
+### Arrays - Easy (17 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -47,6 +47,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Merge Sorted Array | `88-merge-sorted-array.ipynb` |
 | Intersection of Two Arrays II | `350-intersection-of-two-arrays-ii.ipynb` |
 | Assign Cookies | `455-assign-cookies.ipynb` |
+| Maximum Average Subarray I | `643-maximum-average-subarray-i.ipynb` |
+| Contains Duplicate II | `219-contains-duplicate-ii.ipynb` |
 
 ---
 
@@ -101,7 +103,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### SQL - Easy (22 problems)
+### SQL - Easy (24 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -127,6 +129,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Product Sales Analysis II | `1069-product-sales-analysis-ii.ipynb` |
 | Sales Analysis III | `1084-sales-analysis-iii.ipynb` |
 | Students and Examinations | `1280-students-and-examinations.ipynb` |
+| Customer Who Visited but Did Not Make Any Transactions | `1581-customer-who-visited-but-did-not-make-any-transactions.ipynb` |
+| Article Views I | `1148-article-views-i.ipynb` |
 
 ---
 
