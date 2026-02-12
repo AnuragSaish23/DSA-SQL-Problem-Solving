@@ -11,7 +11,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 ```
 ├── Arrays/
 │   ├── Easy/       (17 problems)
-│   ├── Medium/     (16 problems)
+│   ├── Medium/     (18 problems)
 │   └── Hard/       (1 problem)
 │
 ├── Strings/
@@ -20,7 +20,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 │   └── Hard/
 │
 └── SQL/
-    ├── Easy/       (24 problems)
+    ├── Easy/       (26 problems)
     └── Medium/     (1 problem)
 ```
 
@@ -52,7 +52,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### Arrays - Medium (16 problems)
+### Arrays - Medium (18 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -72,6 +72,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Remove Duplicates from Sorted Array II | `80-remove-duplicates-from-sorted-array-ii.ipynb` |
 | Boats to Save People | `881-boats-to-save-people.ipynb` |
 | Bag of Tokens | `948-bag-of-tokens.ipynb` |
+| Minimum Size Subarray Sum | `209-minimum-size-subarray-sum.ipynb` |
+| Longest Substring Without Repeating Characters | `3-longest-substring-without-repeating-characters.ipynb` |
 
 ---
 
@@ -103,7 +105,7 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 
 ---
 
-### SQL - Easy (24 problems)
+### SQL - Easy (26 problems)
 
 | Problem | Notebook |
 |---------|----------|
@@ -131,6 +133,8 @@ The goal of this repo is to build strong problem-solving skills by implementing 
 | Students and Examinations | `1280-students-and-examinations.ipynb` |
 | Customer Who Visited but Did Not Make Any Transactions | `1581-customer-who-visited-but-did-not-make-any-transactions.ipynb` |
 | Article Views I | `1148-article-views-i.ipynb` |
+| Average Selling Price | `1251-average-selling-price.ipynb` |
+| Project Employees I | `1075-project-employees-i.ipynb` |
 
 ---
 
